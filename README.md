@@ -1,69 +1,128 @@
-# Hi 👋, I'm Vansh Sharma
+<div align="center">
 
-## 🛡️ Offensive Security Learner | Python Developer | Kali Linux | CTF Player
+# Hi 👋 I'm Vansh Sharma
 
-B.Tech Computer Science student passionate about Offensive Security, Network Security, and Security Automation.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Offensive+Security+Learner;Python+Developer;CTF+Player;Network+Security+Enthusiast;TryHackMe+%7C+Hack+The+Box+%7C+PortSwigger;Building+Cyber+Security+Projects" />
 
-I build real-world Cyber Security tools and Network Monitoring Systems using Python and Django.
+</div>
 
 ---
 
-## 🚀 Currently Learning
+# 🛡️ About Me
+
+- 🎓 B.Tech Computer Science Student
+- 🛡️ Offensive Security Learner
+- 💻 Python Developer
+- 🐧 Kali Linux User
+- 🎯 CTF Player
+- 🌐 Building Cyber Security & Network Monitoring Projects
+
+---
+
+# 🚀 Currently Learning
 
 - Offensive Security
 - Penetration Testing
 - Bug Bounty
+- Active Directory
 - Network Security
+- Web Application Security
 - Security Automation
 - SOC & Blue Team
 
 ---
 
-## 🧠 Platforms
+# 🧠 Platforms
 
-- TryHackMe
-- Hack The Box
-- PortSwigger Web Security Academy
-- OverTheWire
-- Capture The Flag (CTF)
-
----
-
-## 💻 Tech Stack
-
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Linux (Kali Linux)
-- Git
-- SQLite
+- 🟢 TryHackMe
+- 🟠 Hack The Box
+- 🔵 PortSwigger Web Security Academy
+- ⚫ OverTheWire
+- 🔴 Capture The Flag (CTF)
 
 ---
 
-## 🔧 Tools
+# 💻 Tech Stack
 
-- Kali Linux
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-- Git
-- VS Code
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,linux,kali,git,sqlite,vscode"/>
+
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🛠️ Security Tools
 
-- LAN Security Monitoring Dashboard
-- Network Monitoring System
-- Offline Network Monitoring System
-- Python Security Tools
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,vscode"/>
+
+</p>
+
+Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit (Learning)
 
 ---
 
-## 🎯 Goal
+# 📊 GitHub Stats
 
-To become a skilled Cyber Security Professional by building practical security tools, solving CTFs, and gaining hands-on experience through TryHackMe, Hack The Box, PortSwigger, and OverTheWire.
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARES99913&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARES99913&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ARES99913&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ARES99913&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ARES99913&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+- 🔹 LAN Security Monitoring Dashboard
+- 🔹 Network Monitoring System
+- 🔹 Offline Network Monitoring System
+- 🔹 Python Security Tools
+
+---
+
+# 🎯 Goal
+
+To become a skilled Offensive Security Professional by building practical security tools, solving CTFs, and gaining hands-on experience through TryHackMe, Hack The Box, PortSwigger, and OverTheWire.
+
+---
+
+<div align="center">
+
+### ⚡ "Learn • Build • Break • Secure"
+
+</div>
