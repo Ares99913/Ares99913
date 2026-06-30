@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vansh Sharma
 
-## 🛡️ Cyber Security Enthusiast | Python Developer
+## 🛡️ Offensive Security Learner | Python Developer | Kali Linux | CTF Player
 
 B.Tech Computer Science student passionate about Offensive Security, Network Security, and Security Automation.
 
