@@ -1,128 +1,101 @@
 <div align="center">
 
-# Hi 👋 I'm Vansh Sharma
+# Hi, I'm Vansh Sharma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Offensive+Security+Learner;Python+Developer;CTF+Player;Network+Security+Enthusiast;TryHackMe+%7C+Hack+The+Box+%7C+PortSwigger;Building+Cyber+Security+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cyber+Security+Learner;Python+Developer;CTF+Player;Network+Security+Enthusiast;Django+%7C+Python+%7C+Linux;Building+Security+%26+Monitoring+Projects" />
 
 </div>
 
 ---
 
-# 🛡️ About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Student
-- 🛡️ Offensive Security Learner
-- 💻 Python Developer
-- 🐧 Kali Linux User
-- 🎯 CTF Player
-- 🌐 Building Cyber Security & Network Monitoring Projects
+I am a B.Tech Computer Science student focused on Cyber Security, Python development, and practical security projects. I enjoy building tools, learning offensive security concepts, solving CTF challenges, and working with Linux-based environments.
+
+- Cyber Security and Network Security learner
+- Python and Django developer
+- Kali Linux user
+- CTF and hands-on lab enthusiast
+- Interested in offensive security, bug bounty, and blue team monitoring
+- Building practical security tools and monitoring systems
 
 ---
 
-# 🚀 Currently Learning
+## Currently Learning
 
 - Offensive Security
 - Penetration Testing
-- Bug Bounty
-- Active Directory
-- Network Security
 - Web Application Security
+- Bug Bounty Methodology
+- Active Directory Basics
+- Network Security
 - Security Automation
-- SOC & Blue Team
+- SOC and Blue Team Concepts
+- Linux System Administration
 
 ---
 
-# 🧠 Platforms
+## Platforms I Use
 
-- 🟢 TryHackMe
-- 🟠 Hack The Box
-- 🔵 PortSwigger Web Security Academy
-- ⚫ OverTheWire
-- 🔴 Capture The Flag (CTF)
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+- OverTheWire
+- Capture The Flag Labs
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,linux,kali,git,sqlite,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,linux,kali,git,github,sqlite,vscode" />
 </p>
 
 ---
 
-# 🛠️ Security Tools
+## Security Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode" />
 </p>
 
-Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit (Learning)
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARES99913&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARES99913&layout=compact&theme=tokyonight"/>
-
+  Burp Suite • Nmap • Wireshark • Kali Linux • Metasploit • Gobuster • Nikto • Netcat
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Featured Projects
 
-<p align="center">
+### LAN Security Monitoring Dashboard
+A Django-based LAN monitoring system with Python agents for system health tracking, USB alerts, machine status, banned IPs, and brute-force detection.
 
-<img src="https://streak-stats.demolab.com?user=ARES99913&theme=tokyonight"/>
+### Network Monitoring System
+A local network monitoring project focused on device visibility, system status, and security event tracking.
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ARES99913&theme=tokyonight&row=1&column=7"/>
-
-</p>
+### Python Security Tools
+Small Python-based tools for learning automation, networking, and cyber security concepts.
 
 ---
 
-# 👀 Profile Views
+## GitHub Focus
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ARES99913&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-- 🔹 LAN Security Monitoring Dashboard
-- 🔹 Network Monitoring System
-- 🔹 Offline Network Monitoring System
-- 🔹 Python Security Tools
+- Writing clean Python code
+- Building security-focused projects
+- Improving Linux and networking skills
+- Creating practical tools for real-world learning
+- Documenting projects professionally
 
 ---
 
-# 🎯 Goal
+## Goal
 
-To become a skilled Offensive Security Professional by building practical security tools, solving CTFs, and gaining hands-on experience through TryHackMe, Hack The Box, PortSwigger, and OverTheWire.
+My goal is to become a skilled Cyber Security professional by building practical tools, solving security labs, learning from real-world scenarios, and improving every day through hands-on practice.
 
 ---
 
 <div align="center">
 
-### ⚡ "Learn • Build • Break • Secure"
+## Learn • Build • Break • Secure
 
 </div>
